@@ -1,0 +1,19 @@
+/* color del titulo del blog */
+header{
+    color: red;
+}
+/* article h2{
+    color: blue;
+} */
+
+.article{
+    color: rgb(0, 0, 0);
+}
+
+/*selector con id*/
+#text-1{
+    color: blueviolet;
+}
+#text-2{
+    color: darkgreen;
+}
